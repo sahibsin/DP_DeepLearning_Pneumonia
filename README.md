@@ -1,4 +1,4 @@
-# Benchmarking Differentially Private Residual Networks for Medical Imagery (ICML'20 Workshop on Health Systems)
+# Benchmarking Differentially Private Residual Networks for Medical Imagery (ICML'20 Workshop on Health Systems-HSYS)
 
 ### Abstract
 In this paper we measure the effectiveness of e-Differential Privacy (DP) when applied to medical imaging. <br />
